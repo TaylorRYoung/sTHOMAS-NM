@@ -6,7 +6,7 @@ Figure 1 below demonstrates a shift method for applying the models to a new site
 Full reference in preparation.
 
 <img width="3456" height="2112" alt="image" src="https://github.com/user-attachments/assets/b4fbdda3-9b66-457a-b933-28728d17ec43" />
-__Figure 1__ - Z-scores were generated for the control samples of a new site and demonstrate potential site effects notably in L13 and R13. Site effects were accounted for by the shift method or retraining the models incorporating controls from the new site. Both methods appear to address site effects equally and have the same impact on a population of study participants with schizophrenia from the same site. 
+**Figure 1** - Z-scores were generated for the control samples of a new site and demonstrate potential site effects notably in L13 and R13. Site effects were accounted for by the shift method or retraining the models incorporating controls from the new site. Both methods appear to address site effects equally and have the same impact on a population of study participants with schizophrenia from the same site. 
 
 
 References:
